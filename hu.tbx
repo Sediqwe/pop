@@ -14,6 +14,10 @@
                 <langSet xml:lang="en"><tig><term>Construction depot</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Építőanyag lerakat</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Ranger</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Vadőr</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
