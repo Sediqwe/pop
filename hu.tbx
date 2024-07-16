@@ -18,6 +18,10 @@
                 <langSet xml:lang="en"><tig><term>Ranger</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Vadőr</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Stone Mill</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Kőzúzda</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
