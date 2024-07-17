@@ -34,6 +34,14 @@
                 <langSet xml:lang="en"><tig><term>cavs</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>dögevő</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Scavs</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Dögevők</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Fearnaught</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Fenegyerek</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
