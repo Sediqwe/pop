@@ -22,6 +22,18 @@
                 <langSet xml:lang="en"><tig><term>Stone Mill</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Kőzúzda</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Spectre</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>kísértet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cloth</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>szövet</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>cavs</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>dögevő</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
