@@ -42,6 +42,14 @@
                 <langSet xml:lang="en"><tig><term>Fearnaught</term></tig></langSet>
                 <langSet xml:lang="hu"><tig><term>Fenegyerek</term></tig></langSet>
             </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>pile</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>halom</term></tig></langSet>
+            </termEntry>
+            <termEntry>
+                <langSet xml:lang="en"><tig><term>Orescraper</term></tig></langSet>
+                <langSet xml:lang="hu"><tig><term>Érckaparó</term></tig></langSet>
+            </termEntry>
         </body>
     </text>
 </martif>
